@@ -1,0 +1,17 @@
+{
+  "name": "radio-amor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:server": "pipenv run python server.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5",
+    "tailwindcss": "^2.2.7",
+    "vue": "^2.6.14"
+  }
+}
