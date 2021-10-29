@@ -2,3 +2,4 @@
 
 Music playlists powered by Spotify.
 
+Python / Flask version
